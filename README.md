@@ -1,5 +1,5 @@
-# FitHub
+# Replace hello.txt
 
-## Overview
-
-The FitHub application is designed to help users track their fitness activities, manage their workout routines, and monitor their progress. It includes features for logging workouts, setting fitness goals, and providing analytics to improve performance.
+- [ ] delete hello.txt
+- [ ] create README.md
+- [ ] summarize, to the best you're able, what the application currently includes and/or does
